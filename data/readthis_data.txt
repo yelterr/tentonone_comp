@@ -1,0 +1,5 @@
+There are three different datasets in this project.
+
+SCUT data refers to the already existing data of 5500 Asian and Caucasian men and women. Rated on a scale of 0-5.
+Ten to None data refers to the ~650 images used on my website that users rated on a scale of 0-10.
+my_images/ consists of the the testing images that no model had seen just for creative exploration. Those are not used for training any model.
